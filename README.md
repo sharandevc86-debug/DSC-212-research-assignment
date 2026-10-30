@@ -2,6 +2,7 @@
 
 **Course:** DSC212, Graph Theory Module (research assignment)<br>
 **Author:** *Sharandev B*<br>
+**ID:** *IMS25189*<br>
 **Notebook:**[`DSC212_Zachary_Karate_Club_Assignment.ipynb`](./DSC212_Zachary_Karate_Club_Assignment.ipynb)
 
 ---
