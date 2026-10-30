@@ -3,7 +3,7 @@
 **Course:** DSC212, Graph Theory Module (research assignment)<br>
 **Author:** *Sharandev B*<br>
 **ID:** *IMS25189*<br>
-**Notebook:**[`DSC212_Zachary_Karate_Club_Assignment.ipynb`](./DSC212_Zachary_Karate_Club_Assignment.ipynb)
+**Notebook:**[`DSC212_Zachary_Karate_Club_Assignment.ipynb`](./DSC212_Zachary's_Karate_Club_Assignment.ipynb)
 
 ---
 
@@ -100,7 +100,7 @@ Final communities (node IDs 1 to 34):
 
 ```
 .
-├── DSC212_Zachary_Karate_Club_Assignment.ipynb   # full analysis: code, outputs, plots, discussion
+├── DSC212_Zachary's_Karate_Club_Assignment.ipynb   # full analysis: code, outputs, plots, discussion
 ├── LICENSE/                            # MIT LICENSE
 └── README.md
 ```
@@ -109,7 +109,7 @@ Final communities (node IDs 1 to 34):
 
 ```bash
 pip install numpy networkx matplotlib pandas jupyter
-jupyter notebook DSC212_Zachary_Karate_Club_Assignment.ipynb
+jupyter notebook DSC212_Zachary's_Karate_Club_Assignment.ipynb
 ```
 
 Run the notebook top to bottom ("Restart & Run All"). It needs no manual edits. The graph layout uses a fixed random seed, so the figures look the same on every run.
