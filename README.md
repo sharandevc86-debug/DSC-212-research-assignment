@@ -100,7 +100,7 @@ Final communities (node IDs 1 to 34):
 ```
 .
 ├── DSC212_Zachary_Karate_Club_Assignment.ipynb   # full analysis: code, outputs, plots, discussion
-├── assets/                            # figures saved by the notebook
+├── LICENSE/                            # MIT LICENSE
 └── README.md
 ```
 
