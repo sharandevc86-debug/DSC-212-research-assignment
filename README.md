@@ -1,8 +1,8 @@
 # Modularity on the Karate Club Graph
 
-**Course:** DSC212, Graph Theory Module (research assignment)
-**Author:** *Sharandev B*
-**Notebook:** [`DSC212_Zachary_Karate_Club_Assignment.ipynb`](./DSC212_Zachary_Karate_Club_Assignment.ipynb) (rename the link to match your file)
+**Course:** DSC212, Graph Theory Module (research assignment)\n
+**Author:** *Sharandev B*\n
+**Notebook:** [`DSC212_Zachary_Karate_Club_Assignment.ipynb`](./DSC212_Zachary_Karate_Club_Assignment.ipynb)
 
 ---
 
