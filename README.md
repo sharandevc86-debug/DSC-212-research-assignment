@@ -123,7 +123,7 @@ I used an AI assistant (Claude, by Anthropic) as a tool for parts of this projec
 - **Python libraries.** I am not yet fluent in NumPy, NetworkX, pandas and matplotlib, so I used the assistant to learn which functions to call and to help write and debug code for the eigen-decomposition, the recursion, the plots and the tables.
 - **LaTeX.** I used it to typeset the mathematics in this README and in the notebook's Markdown cells.
 
-The assistant also drafted wording for parts of the notebook discussion. I decided to follow the handout's method, I noticed the node 12 problem in my own results, and I wrote up my findings on Newman's correction myself. The assistant helped check that this reasoning was correct and pointed out where my explanation was imprecise, for example that zero row sums hold for the whole-graph matrix and not for an arbitrary subgroup. I am responsible for everything submitted here.
+The assistant also drafted wording for parts of the notebook discussion.When I decided to follow the handout's method, I noticed the node 12 problem in my own results, and I wrote up my findings on Newman's correction myself. The assistant helped check that this reasoning was correct and pointed out where my explanation was imprecise, for example that zero row sums hold for the whole-graph matrix and not for an arbitrary subgroup. I am responsible for everything submitted here.
 
 ---
 
