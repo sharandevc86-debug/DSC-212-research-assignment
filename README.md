@@ -42,7 +42,7 @@ The result looked reasonable at first, but the output had **five communities, fo
 - The plain block still gave $\lambda_1 \approx 2.15 > 0$, so the stopping rule never fired.
 - At the fourth split node 12 was cut off alone. Modularity rose slightly (0.4081 to 0.4094), but only by detaching a degree-1 node from its only neighbour.
 
-In my view the handout's simplified matrix is too diluted to support its own stopping rule, which is why I did more analysis on modularity itself.
+In my view the handout's matrix is too simplified to support its own stopping rule, which is why I did more analysis on modularity itself.
 
 ### What I found
 
