@@ -109,7 +109,7 @@ Final communities (node IDs 1 to 34):
 
 ```bash
 pip install numpy networkx matplotlib pandas jupyter
-jupyter notebook DSC212_Zachary's_Karate_Club_Assignment.ipynb
+jupyter notebook                               DSC212_Zachary's_Karate_Club_Assignment.ipynb
 ```
 
 Run the notebook top to bottom ("Restart & Run All"). It needs no manual edits. The graph layout uses a fixed random seed, so the figures look the same on every run.
